@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newtrakka/static/css/main.e8cb47f3.css",
+    "main.js": "/newtrakka/static/js/main.8e1eff74.js",
+    "static/media/trakka-account.png": "/newtrakka/static/media/trakka-account.7df593da40c48dc15f94.png",
+    "static/media/trakka-home.png": "/newtrakka/static/media/trakka-home.3b36e437a7aecb7a4c08.png",
+    "static/media/ellipse-full.png": "/newtrakka/static/media/ellipse-full.5d2e75433f8f985e9bd1.png",
+    "index.html": "/newtrakka/index.html",
+    "main.e8cb47f3.css.map": "/newtrakka/static/css/main.e8cb47f3.css.map",
+    "main.8e1eff74.js.map": "/newtrakka/static/js/main.8e1eff74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cb47f3.css",
+    "static/js/main.8e1eff74.js"
+  ]
+}
